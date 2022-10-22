@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["/","/404","/about","/card/[id]","/cards","/category/[id]","/contact","/forgot-password","/login","/offers","/privacy-policy","/register","/reset-password","/service-agreement"]),self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB();
